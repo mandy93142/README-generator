@@ -1,10 +1,10 @@
 
 # README-generator
 
-MIT
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)  MIT
 
 ### Description
-create a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package
+Create a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package.
 
 ### Table of Contents
 - [Installation](#installation)
@@ -30,8 +30,9 @@ JavaScript
 JavaScript
 
 ## License
-MIT
+This project is licensed under the MIT license.
 
 ## Questions
 - GitHub: [mandy93142](https://github.com/mandy93142)
 - Email: mandy93142@gmail.com - Feel free to reach out with any additional questions.
+
